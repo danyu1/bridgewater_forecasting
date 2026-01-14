@@ -1,0 +1,7 @@
+.env
+beta_scripts
+.claude
+.vscode
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
