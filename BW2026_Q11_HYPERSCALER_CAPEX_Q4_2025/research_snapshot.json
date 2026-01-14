@@ -1,0 +1,20 @@
+{
+  "as_of_utc": "2026-01-14T05:33:55.519976",
+  "sources": {
+    "MSFT": {
+      "cik": "0000789019",
+      "payments_tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+      "n_quarters_extracted": 52
+    },
+    "GOOG": {
+      "cik": "0001652044",
+      "payments_tag": "PaymentsToAcquirePropertyPlantAndEquipment",
+      "n_quarters_extracted": 46
+    },
+    "AMZN": {
+      "cik": "0001018724",
+      "payments_tag": "PaymentsToAcquireProductiveAssets",
+      "n_quarters_extracted": 34
+    }
+  }
+}

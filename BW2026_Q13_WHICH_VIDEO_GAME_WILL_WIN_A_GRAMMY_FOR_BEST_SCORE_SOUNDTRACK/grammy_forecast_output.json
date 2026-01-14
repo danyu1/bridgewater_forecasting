@@ -1,0 +1,19 @@
+{
+  "question": "Grammy 2026 Best Video Game Soundtrack",
+  "type": "multiple_choice",
+  "forecast_date": "2026-01-13",
+  "resolution_date": "2026-02-01",
+  "final_forecast": {
+    "Indiana Jones And The Great Circle": 0.33,
+    "Sword of the Sea": 0.25,
+    "Helldivers 2": 0.22,
+    "Star Wars Outlaws: Wild Card & A Pirate's Fortune": 0.12,
+    "Avatar: Frontiers of Pandora - Secrets of the Spires": 0.08
+  },
+  "key_factors": {
+    "prior_winner_advantage": "Gordy Haab won 2024, strong precedent",
+    "vote_splitting": "Wilbert Roget II nominated twice, votes split",
+    "academy_preference": "Strong preference for orchestral Williams-style",
+    "wintory_streak": "Austin Wintory 4x nominated, never won new category"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "as_of_utc": "2026-01-14T04:39:07.571796",
+  "series": {
+    "definition": "ASML net system sales to China (% of total net system sales, ship-to location)",
+    "points": 8
+  },
+  "history_points": [
+    {
+      "period": "2023Q4",
+      "china_share_pct": 39,
+      "source": "metaculus_background"
+    },
+    {
+      "period": "2024Q1",
+      "china_share_pct": 49,
+      "source": "metaculus_background"
+    },
+    {
+      "period": "2024Q2",
+      "china_share_pct": 49,
+      "source": "metaculus_background"
+    },
+    {
+      "period": "2024Q3",
+      "china_share_pct": 47,
+      "source": "metaculus_background"
+    },
+    {
+      "period": "2024Q4",
+      "china_share_pct": 27,
+      "source": "asml_ir_scrape"
+    },
+    {
+      "period": "2025Q1",
+      "china_share_pct": 27,
+      "source": "metaculus_background"
+    },
+    {
+      "period": "2025Q2",
+      "china_share_pct": 27,
+      "source": "metaculus_background"
+    },
+    {
+      "period": "2025Q3",
+      "china_share_pct": 42,
+      "source": "asml_ir_scrape"
+    }
+  ],
+  "unconditional_stats": {
+    "mean": 38.375,
+    "sd": 10.013383900702955,
+    "quantiles": {
+      "p5": 27.0,
+      "p25": 27.0,
+      "p50": 40.5,
+      "p75": 47.5,
+      "p95": 49.0
+    }
+  },
+  "recent_4q_stats": {
+    "mean": 30.75,
+    "sd": 7.5
+  },
+  "diff_stats": {
+    "mean": 0.42857142857142855,
+    "sd": 11.012979355547447,
+    "min": -20.0,
+    "max": 15.0
+  },
+  "conditional_next_quarter_given_last_band": {
+    "abs_prev_minus_last_leq": 5.0,
+    "n": 2,
+    "mean": 38.0,
+    "p25": 32.5,
+    "p50": 38.0,
+    "p75": 43.5
+  },
+  "last_observation": {
+    "period": "2025Q3",
+    "china_share_pct": 42
+  }
+}

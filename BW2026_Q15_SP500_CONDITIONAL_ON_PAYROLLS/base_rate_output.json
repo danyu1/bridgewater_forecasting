@@ -1,0 +1,34 @@
+{
+  "as_of_utc": "2026-01-14T17:39:00.204423",
+  "parent": {
+    "p_lt_100k_base_long": 0.2504798464491363,
+    "p_lt_100k_last_10y": 0.08333333333333333,
+    "p_lt_100k_sim_recent": 0.121948,
+    "p_lt_100k_weighted": 0.14892315393474087,
+    "recent_monthly_change_mu": 144.16666666666666,
+    "recent_monthly_change_sd": 114.08555686726645
+  },
+  "spx_conditional_1m_log_return": {
+    "mu_all": 0.0061821123680675435,
+    "sd_all": 0.043071938718561756,
+    "mu_yes": 0.006493632264004996,
+    "sd_yes": 0.05023257876829678,
+    "mu_no": 0.006078006487350929,
+    "sd_no": 0.0404329116355622,
+    "n_aligned": 1042,
+    "n_yes": 261,
+    "n_no": 781
+  },
+  "spx_conditional_7bd_log_return": {
+    "mu_all": 0.002253227817157637,
+    "sd_all": 0.025969224713428846,
+    "mu_yes": 0.002794287772762602,
+    "sd_yes": 0.031291487836713865,
+    "mu_no": 0.002072412646334467,
+    "sd_no": 0.023948883665497633,
+    "n_aligned": 1042,
+    "n_yes": 261,
+    "n_no": 781,
+    "definition": "log return from approx payroll release date (first Friday next month) to 7 trading days later"
+  }
+}

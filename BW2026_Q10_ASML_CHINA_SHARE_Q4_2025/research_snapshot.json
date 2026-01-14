@@ -1,0 +1,186 @@
+{
+  "as_of_utc": "2026-01-14T04:25:15.544332",
+  "n_points": 3,
+  "sources": [
+    {
+      "quarter": "2018Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2018",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2018/q1/asml_20180418_presentation_2018_q1.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2018Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2018",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2018/q2/asml_20180718_presentation_2018_q2.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2018Q3",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q3-2018",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2018/q3/asml_20181017_presentation_2018_q3_hjmcnrpkfr46mmty.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2018Q4",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q4-2018",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2018/q4/asml_20190123_presentation_2018_q4_81315f89404p04.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2019Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2019",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2019/q1/asml_20190417_presentation_2019_q1_16wnkawzt2.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2019Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2019",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2019/q2/2019-07-17-q2-presentation.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2019Q3",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q3-2019",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2019/q3/2019-10-16-q3-presentation.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2019Q4",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q4-2019",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2019/q4/2020-01-22-q4-presentation.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2020Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2020",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2020/q1/2020-04-15-q1-presentation-final.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2020Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2020",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2020/q2/2020-07-15-q2-presentation-final.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2020Q3",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q3-2020",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2020/q3/2020-10-14-q3-presentation-final.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2020Q4",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q4-2020",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2020/q4/q4-presentation-2rd45s.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2021Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2021",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2021/q1/q1-presentation-v2-xc6gf1.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2021Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2021",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2021/q2/q2-presentation-hdjyur.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2021Q3",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q3-2021",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2021/q3/q3-presentation.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2021Q4",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q4-2021",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2021/q4/q4-presentation-ftyjlo.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2022Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2022",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2022/q1/q1-presentation-9kf4w7.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2022Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2022",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2022/q2/q2-presentation-fgt6e2.pdf",
+      "china_share_pct": 10
+    },
+    {
+      "quarter": "2022Q3",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q3-2022",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2022/q3/presentation-investor-relations-q3-2022-g7e5gt.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2022Q4",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q4-2022",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2022/q4/presentation-investor-relations-q4-2022-gt4d78.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2023Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2023",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2023/q1/presentation-investor-relations-q1-2023-mnft67.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2023Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2023",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2023/q2/presentation-investor-relations-q2-2023-t3eel1.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2023Q3",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q3-2023",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2023/q3/presentation-investor-relations-q3-2023-il1kie.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2023Q4",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q4-2023",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2023/q4/presentation-investor-relations-q4-2023-m1ttie.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2024Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2024",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2024/q1/presentation-investor-relations-q1-2024-r3t11w.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2024Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2024",
+      "presentation_pdf": "https://edge.sitecorecloud.io/asmlnetherlaaea-asmlcom-prd-5369/media/project/asmlcom/asmlcom/asml/files/investors/financial-results/q-results/2024/q2/2024_07_17_presentation-investor-relations-q2-2024.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2024Q4",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q4-2024",
+      "presentation_pdf": "https://ourbrand.asml.com/m/62a213cac2117ee6/original/2025_01_29-Presentation-Investor-Relations-Q4-FY-2024.pdf",
+      "china_share_pct": 27
+    },
+    {
+      "quarter": "2025Q1",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q1-2025",
+      "presentation_pdf": "https://ourbrand.asml.com/m/4911d1a455422b3f/original/Presentation-Investor-Relations-Q1-2025.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2025Q2",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q2-2025",
+      "presentation_pdf": "https://ourbrand.asml.com/m/39670b708ea03976/original/2025_07_16_Presentation-Investor-Relations-Q2-2025.pdf",
+      "error": "china_share_not_found_in_pdf"
+    },
+    {
+      "quarter": "2025Q3",
+      "financial_results_url": "https://www.asml.com/en/investors/financial-results/q3-2025",
+      "presentation_pdf": "https://ourbrand.asml.com/m/4beae8fbfeefabee/original/2025_10_15_Presentation-Investor-Relations-Q3-2025.pdf",
+      "china_share_pct": 42
+    }
+  ]
+}

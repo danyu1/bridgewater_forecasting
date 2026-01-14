@@ -1,0 +1,12 @@
+{
+  "as_of_utc": "2026-01-14T00:00:00Z",
+  "notes": [
+    "Metaculus prompt provided the last four quarters of company-level capex and the combined totals, plus the resolution definition.",
+    "SEC companyfacts XBRL was used to reconstruct longer-run quarterly cash PP&E payments series and Q4/Q3 seasonality ratios."
+  ],
+  "crowd_snapshot_from_prompt": {
+    "community_p25_b": 84.76,
+    "community_p50_b": 89.45,
+    "community_p75_b": 95.07
+  }
+}

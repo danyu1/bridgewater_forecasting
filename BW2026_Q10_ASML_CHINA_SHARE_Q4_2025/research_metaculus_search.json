@@ -1,0 +1,13 @@
+{
+  "as_of_utc": "2026-01-14T00:00:00Z",
+  "query_notes": [
+    "Metaculus question background table (Q4 2023–Q3 2025) used as core time series when historical ASML presentations are not text-extractable.",
+    "ASML investor presentation PDFs (Q3 2025 and Q4 FY2024) checked for verifiable China % in 'Region (ship to location)'."
+  ],
+  "primary_urls": [
+    "https://www.asml.com/en/investors/financial-results/q3-2025",
+    "https://ourbrand.asml.com/m/4beae8fbfeefabee/original/2025_10_15_Presentation-Investor-Relations-Q3-2025.pdf",
+    "https://www.asml.com/en/investors/financial-results/q4-2024",
+    "https://ourbrand.asml.com/m/62a213cac2117ee6/original/2025_01_29-Presentation-Investor-Relations-Q4-FY-2024.pdf"
+  ]
+}

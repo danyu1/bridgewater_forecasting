@@ -1,0 +1,9 @@
+year,quarter,china_share_pct,source
+2023,4,39,metaculus_background
+2024,1,49,metaculus_background
+2024,2,49,metaculus_background
+2024,3,47,metaculus_background
+2024,4,27,asml_ir_scrape
+2025,1,27,metaculus_background
+2025,2,27,metaculus_background
+2025,3,42,asml_ir_scrape

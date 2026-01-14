@@ -1,0 +1,15 @@
+Day,Time,Task,Questions,Priority,Notes
+Monday,Morning,Check weekend news and major developments,All,HIGH,Scan headlines for surprises
+Monday,Morning,Review Metaculus community updates,All,MEDIUM,Check for major forecast shifts
+Monday,9:00 AM,Check layoffs.fyi AI industry,Q03,MEDIUM,Weekly monitoring
+Monday,Afternoon,Review legislative calendar,Q02,HIGH,Senate schedule updates
+Tuesday,Morning,Check tech news (AI/GPU/pricing),Q01 Q05 Q08,MEDIUM,Industry developments
+Tuesday,Afternoon,Scan utility earnings announcements,Q12,HIGH,Datacenter capex news
+Wednesday,Morning,Check economic data releases,Q09 Q10 Q14,HIGH,PMI ISM WPI ASML
+Wednesday,Afternoon,Review hyperscaler news,Q11,MEDIUM,MSFT GOOG AMZN capex
+Thursday,Morning,Check geopolitical developments,Q02 Q04,MEDIUM,Sanctions tariffs trade
+Thursday,Afternoon,Mid-week forecast review,High Priority,MEDIUM,Any needed updates?
+Friday,Morning,Week-in-review analysis,All,HIGH,What changed this week?
+Friday,Afternoon,Prep next week's priorities,All,MEDIUM,Upcoming events schedule
+Sunday,Evening,Competition standings check,All,LOW,Community position review
+Daily,As needed,Breaking news monitoring,All,VARIES,Set alerts for key terms

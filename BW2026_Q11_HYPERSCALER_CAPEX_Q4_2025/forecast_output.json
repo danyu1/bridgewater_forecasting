@@ -1,0 +1,53 @@
+{
+  "as_of_utc": "2026-01-14T16:48:12.629981",
+  "target": "Combined capex for MSFT+GOOG+AMZN in quarter ending 2025-12-31 (USD billions)",
+  "current_inputs": {
+    "MSFT": 19.394,
+    "GOOG": 23.953,
+    "AMZN_gross": 35.095,
+    "AMZN_inflow": 0.867
+  },
+  "historical_ratio_counts": {
+    "total_q4_over_q3": 7,
+    "msft": 7,
+    "goog": 7,
+    "amzn": 7
+  },
+  "amazon_inflow_assumption": {
+    "mean_b": 1.057,
+    "sd_b": 0.4851590804399453,
+    "known_points_b": [
+      1.782,
+      0.764,
+      0.815,
+      0.867
+    ]
+  },
+  "crowd_anchor": {
+    "p25": 84.76,
+    "p50": 89.45,
+    "p75": 95.07,
+    "lognormal_mu": 4.493679809954728,
+    "lognormal_sigma": 0.0850937534169122
+  },
+  "ensemble_weights": {
+    "total_ratio": 0.15,
+    "company_ratio_sum": 0.25,
+    "crowd_lognormal": 0.5,
+    "acceleration_tail": 0.1
+  },
+  "forecast_percentiles_b": {
+    "p5": 78.81179320581573,
+    "p25": 84.36739001118968,
+    "p50": 89.17833264551925,
+    "p75": 93.93210949925188,
+    "p95": 101.07513134823272
+  },
+  "forecast_mean_b": 89.35582809472487,
+  "components_mean_b": {
+    "total_ratio": 88.80568740222101,
+    "company_ratio_sum": 88.62568136462272,
+    "crowd": 89.77024730611444,
+    "accel_tail": 90.02739363224202
+  }
+}

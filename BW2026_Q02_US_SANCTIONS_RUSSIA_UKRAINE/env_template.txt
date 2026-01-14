@@ -1,0 +1,35 @@
+# Russia Sanctions Monitor - Environment Configuration
+# Copy this to .env and fill in your values
+
+# =============================================================================
+# REQUIRED - At least one of these for AI analysis
+# =============================================================================
+
+# Anthropic API Key (get from console.anthropic.com)
+ANTHROPIC_API_KEY=sk-ant-xxxxx
+
+# =============================================================================
+# OPTIONAL - News API for broader news coverage
+# =============================================================================
+
+# NewsAPI key (get free tier from newsapi.org)
+NEWS_API_KEY=
+
+# =============================================================================
+# OPTIONAL - Email alerts
+# =============================================================================
+
+# For Gmail, use an App Password (not your regular password)
+# Enable 2FA, then create app password at: myaccount.google.com/apppasswords
+
+SMTP_SERVER=smtp.gmail.com
+SMTP_PORT=587
+EMAIL_FROM=your_email@gmail.com
+EMAIL_PASSWORD=your_app_password_here
+EMAIL_TO=your_email@gmail.com
+
+# =============================================================================
+# OPTIONAL - Slack alerts (alternative to email)
+# =============================================================================
+
+# SLACK_WEBHOOK_URL=https://hooks.slack.com/services/xxx/xxx/xxx

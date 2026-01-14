@@ -1,0 +1,36 @@
+{
+  "as_of_utc": "2026-01-14T04:39:08.516068",
+  "target": "ASML net system sales share to China in Q4 2025 (%)",
+  "last_observed": {
+    "period": "2025Q3",
+    "china_share_pct": 42.0
+  },
+  "ar1_logit_fit": {
+    "a": -0.25222237847186235,
+    "b": 0.47950395258010714,
+    "sigma": 0.45465036522574054,
+    "n_points": 8
+  },
+  "nearest_neighbor_transitions": {
+    "band": 7.0,
+    "n_hist_transitions": 4
+  },
+  "import_anchor": {
+    "mean": 30.0,
+    "sd": 2.5
+  },
+  "ensemble_weights": {
+    "ar1_logit": 0.25,
+    "nearest_neighbor": 0.15,
+    "recent_mean": 0.35,
+    "import_anchor": 0.25
+  },
+  "forecast_percentiles": {
+    "p5": 22.021928819106762,
+    "p25": 28.261061694681082,
+    "p50": 32.24222536607386,
+    "p75": 41.48066753440054,
+    "p95": 50.9090389377963
+  },
+  "forecast_mean": 34.83414135349795
+}
