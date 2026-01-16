@@ -6,10 +6,10 @@ Q04,Will the US impose any new import restriction upon China before March 14 202
 Q05,Will NVIDIA GPUs better than H200 be allowed to be exported to China before March 14 2026?,Tech & AI,5%,7%,2026-03-14,59,Active,2026-01-20,Very low probability - monitor for surprises only,LOW,High
 Q07,Which country will lead the 2026 Winter Olympics medal table?,Entertainment,Norway 64%,Norway ~60%,2026-02-06,23,Active,2026-01-20,Olympics start Feb 6 - monitor athlete injuries,MEDIUM,Medium
 Q08,Will OpenAI API token prices fall before March 14 2026?,Tech & AI,14%,15%,2026-02-28,45,Active,2026-01-27,Check for GPT-5.3 or GPT-6 announcements,LOW,Medium
-Q09,What will be the US Manufacturing PMI in February 2026?,Economics,TBD,TBD,2026-03-03,48,Pending,2026-01-15,Dec PMI: 47.9 vs forecast 48.3 - divergence with S&P,MEDIUM,TBD
-Q10,What will be ASML's China revenue share in Q4 2025?,Economics,TBD,TBD,2026-01-29,15,Pending,2026-01-15,Q4 2025 results due soon - HIGH PRIORITY,HIGH,TBD
-Q11,What will be the total hyperscaler capex in Q4 2025?,Tech & AI,TBD,TBD,2026-02-28,45,Pending,2026-01-28,MSFT/GOOG/AMZN earnings season,HIGH,TBD
+Q09,What will be the US Manufacturing PMI in February 2026?,Economics,51.2	52.7	54.1,,2026-03-03,48,Pending,2026-01-15,Dec PMI: 47.9 vs forecast 48.3 - divergence with S&P,MEDIUM,TBD
+Q10,What will be ASML's China revenue share in Q4 2025?,Economics,29%	33%	38%,,2026-01-29,15,Pending,2026-01-15,Q4 2025 results due soon - HIGH PRIORITY,HIGH,TBD
+Q11,What will be the total hyperscaler capex in Q4 2025?,Tech & AI,84.49B $	89.26B $	93.96B $,TBD,2026-02-28,45,Pending,2026-01-28,MSFT/GOOG/AMZN earnings season,HIGH,TBD
 Q12,Will any US electric utility announce a $5B+ capex increase citing datacenter demand?,Economics,73%,~75%,2026-02-28,45,Active,2026-01-27,NextEra earnings Jan 27 - CRITICAL,HIGH,Medium-High
 Q13,Which video game will win the Grammy for Best Score Soundtrack?,Entertainment,Indiana Jones 33%,Mixed,2026-02-01,18,Active,2026-02-01,Grammy Awards Feb 1 - RESOLVES SOON,HIGH,Medium
 Q14,What will be the Indian Wholesale Price Index inflation rate in January 2026?,Economics,0.15% (median),~0.3%,2026-02-15,32,Active,2026-01-14,Dec 2025 WPI release Jan 14 - check today,HIGH,Medium
-Q15,S&P 500 conditional on payrolls,Economics,TBD,TBD,2026-02-07,24,Pending,2026-01-15,Payrolls data Dec: 159526 - need to complete forecast,MEDIUM,TBD
+Q15,S&P 500 conditional on payrolls,Economics,if yes 6684	7094	7529 if no 6693	7072	7460,TBD,2026-02-07,24,Pending,2026-01-15,Payrolls data Dec: 159526 - need to complete forecast,MEDIUM,TBD
