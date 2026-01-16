@@ -149,7 +149,8 @@
 | Base Rate | 35% | 0.35 | 12.2% |
 | Monte Carlo | 55% | 0.20 | 11.0% |
 | Evidence-Adjusted | 45% | 0.25 | 11.2% |
-| Community/Market | 38% | 0.20 | 7.6% |
+| Community/Market | 46% | 0.20 | 9.2
+
 | **ENSEMBLE** | | **1.00** | **42%** |
 
 ---
